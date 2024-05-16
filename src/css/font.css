@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Yekan";
     font-style: normal;
-    src: url(/assets/fonts/yekan/BYekan+.ttf);
+    src: url(../assets/fonts/yekan/BYekan+.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: "Yekan";
     font-style: normal;
-    src: url(/assets/fonts/yekan/BYekan+\ Bold.ttf );
+    src: url(../assets/fonts/yekan/BYekan+\ Bold.ttf );
     font-weight: bold;
     font-style: normal;
 }
